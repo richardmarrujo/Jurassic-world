@@ -1,0 +1,178 @@
+body{
+
+}
+
+#Welcome {
+  text-align: center;
+  background-color: grey;
+}
+
+#bg{
+  position: relative;
+}
+
+#journal {
+  position: relative;
+  text-align: center;
+  background-color: red;
+  z-index: 10;
+}
+
+#cover {
+  position: relative;
+  margin-top: 10px;
+
+}
+
+#hey {
+  position: relative;
+  text-align: center;
+  margin-top: 70px;
+}
+
+#parasaur {
+  position: relative;
+  background-color: grey;
+  text-align: center;
+  font-size: 2.5rem;
+  font-family: 'Just Another Hand', cursive;
+}
+
+#parasaur_name_txt {
+  position: absolute;
+  left: 59%;
+  top: 5%;
+  text-align: center;
+}
+
+#parasaur_user_txtarea {
+  position: absolute;
+  left: 53%;
+  bottom: 20%;
+}
+
+#dilophosaur {
+  position: relative;
+  background-color: grey;
+  text-align: center;
+  font-size: 2.5rem;
+  font-family: 'Just Another Hand', cursive;
+}
+
+#dilophosaur_name_txt {
+  position: absolute;
+  left: 59%;
+  top: 5%;
+  text-align: center;
+}
+
+#dilophosaur_user_txtarea {
+  position: absolute;
+  left: 53%;
+  bottom: 20%;
+}
+
+#triceratops {
+  position: relative;
+  background-color: grey;
+  text-align: center;
+  font-size: 2.5rem;
+  font-family: 'Just Another Hand', cursive;
+}
+
+#triceratops_name_txt {
+  position: absolute;
+  left: 59%;
+  top: 5%;
+  text-align: center;
+}
+
+#triceratops_user_txtarea {
+  position: absolute;
+  left: 53%;
+  bottom: 20%;
+}
+
+#trex {
+  position: relative;
+  background-color: grey;
+  text-align: center;
+  font-size: 2.5rem;
+  font-family: 'Just Another Hand', cursive;
+}
+
+#trex_name_txt {
+  position: absolute;
+  left: 59%;
+  top: 5%;
+  text-align: center;
+}
+
+#trex_user_txtarea {
+  position: absolute;
+  left: 53%;
+  bottom: 20%;
+}
+
+#compys {
+  position: relative;
+  background-color: grey;
+  text-align: center;
+  font-size: 2.5rem;
+  font-family: 'Just Another Hand', cursive;
+}
+
+#compys_name_txt {
+  position: absolute;
+  left: 59%;
+  top: 5%;
+  text-align: center;
+}
+
+#compys_user_txtarea {
+  position: absolute;
+  left: 53%;
+  bottom: 20%;
+}
+
+#velociraptor {
+  position: relative;
+  background-color: grey;
+  text-align: center;
+  font-size: 2.5rem;
+  font-family: 'Just Another Hand', cursive;
+}
+
+#velociraptor_name_txt {
+  position: absolute;
+  left: 59%;
+  top: 5%;
+  text-align: center;
+}
+
+#velociraptor_user_txtarea {
+  position: absolute;
+  left: 53%;
+  bottom: 20%;
+}
+
+#mosasaur {
+  position: relative;
+  background-color: grey;
+  text-align: center;
+  font-size: 2.5rem;
+  font-family: 'Just Another Hand', cursive;
+}
+
+#mosasaur_name_txt {
+  position: absolute;
+  left: 59%;
+  top: 5%;
+  text-align: center;
+}
+
+#mosasaur_user_txtarea {
+  position: absolute;
+  left: 53%;
+  bottom: 20%;
+}
